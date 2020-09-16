@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+}
+header{
+    padding: 1rem;
+    color: white;
+    background-color: rgb(4, 31, 45);
+    font-size: 1rem; 
+    margin: 0;
+}
+main{
+    margin: 8rem;
+    text-align: center;
+    font-size: 1.65rem;
+}
+footer{
+
+    padding: 1.6rem;
+    color: white;
+    background-color: rgb(4, 31, 45);
+    font-size: 1.65rem;
+    text-align: center;
+    word-spacing: 15rem; width: auto; 
+
+}
+footer a{
+    color: white;
+}
+.links{
+    margin: 0;
+    width: 100%;
+    position: fixed;
+    text-decoration: none;
+    text-align: center; 
+    word-spacing: 7rem; width: 100%;
+    background-color: rgb(4, 31, 45);
+}
+ul li{
+    display: inline; 
+}
+ul li a{
+    color: white;
+    font-size: 1.65rem;
+    text-decoration: none; 
+    list-style-type: none;
+    
+}
+}
+div.leiste{
+    display: inline;
+}
